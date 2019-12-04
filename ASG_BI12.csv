@@ -1,0 +1,101 @@
+id_cliente;nombre;apellido;edad;direccion;residencia;origen;id_vendedor;nombre_ven;apellido_ven;tipo_capacitaciÛn;dia;mes;aÒo;id_venta;id_producto;codigo_producto;nombre_producto;categoria;cantidad_maxima;cantidad_minima;precio
+20304;Amaya;Cohen;20;4886 Tortor, Rd.;Belize;Zittau;79663;Rahim;Shepherd;5;lunes;agosto;2019;95819;1;Q5I 3T4;Flovent HFA;2;839;28;s/0.31
+3648;Darrel;Ortiz;80;8287 Aenean Avenue;Martinique;San Leucio del Sannio;20947;Petra;Dean;5;jueves;septiembre;2019;4914;2;W7I 3A3;Lorazepam;5;991;20;s/0.75
+90277;Martin;Rodriguez;58;Ap #129-6152 Pellentesque Rd.;France;Saint-Marc;40388;Guinevere;Morrison;5;domingo;octubre;2019;79605;3;L5A 9T8;Gabapentin;9;191;4;s/0.24
+50403;Anthony;Sampson;32;3070 Odio St.;Israel;Bloomington;20297;Xaviera;Waters;5;lunes;octubre;2019;40337;4;T8Q 8L1;Clonazepam;2;653;27;s/0.75
+71745;Dominique;Anthony;43;P.O. Box 596, 2001 Est, St.;Belgium;Altavilla Irpina;19988;Desirae;Chang;5;lunes;agosto;2019;85919;5;B2G 6M3;Bystolic;2;920;9;s/0.75
+15716;Gareth;Quinn;74;P.O. Box 108, 8476 Mauris Rd.;Ukraine;Macon;58610;Hall;Conway;5;martes;septiembre;2019;34147;6;B6N 0H7;Venlafaxine HCl ER;2;105;17;s/0.80
+45923;Nathaniel;Phelps;65;558-6507 Metus. Avenue;Faroe Islands;Villarrica;36757;Cheryl;Peters;5;miercoles;agosto;2019;38342;7;T2N 2L5;Hydrochlorothiazide;9;485;8;s/0.41
+17079;Doris;Schwartz;73;6017 Ipsum Rd.;New Zealand;Otranto;50774;Axel;Webster;5;domingo;octubre;2019;79091;8;F7Y 2S1;Fluoxetine HCl;1;554;24;s/0.19
+98836;Azalia;Carrillo;55;P.O. Box 891, 4664 A Avenue;Vanuatu;Dongelberg;64600;Fredericka;Camacho;5;viernes;octubre;2019;26634;9;Y0O 9F6;Fluoxetine HCl;7;392;10;s/0.67
+5688;Akeem;Gardner;74;Ap #997-4866 Mauris St.;Kazakhstan;Siegendorf;58470;Orli;Weiss;5;viernes;septiembre;2019;41390;10;M1G 7H9;Lyrica;10;824;17;s/1.00
+34315;Imelda;Kramer;24;Ap #834-5325 Orci Road;Libya;Lower Hutt;18267;Shannon;Schmidt;5;sabado ;agosto;2019;40444;11;Y6S 9O1;Metformin HCl;8;878;24;s/0.21
+69650;Quincy;Randall;33;789-7944 Enim. Rd.;Cambodia;Polatl?;7711;Jolene;Cox;5;lunes;agosto;2019;36201;12;H4K 4S2;Lisinopril;8;999;18;s/0.43
+96398;Dorothy;Garner;18;P.O. Box 496, 1777 Facilisis Street;Jamaica;Southend;86729;Felix;England;5;lunes;septiembre;2019;12877;13;K8O 8O3;Plavix;9;928;11;s/0.66
+11715;Jana;Calhoun;49;P.O. Box 229, 8524 Et St.;Indonesia;Miramichi;39991;Carlos;Hardy;5;miercoles;septiembre;2019;90107;14;Q5J 8U8;Prednisone;5;159;22;s/0.77
+62650;Brendan;Rosario;62;224-9177 Nullam Rd.;Nepal;Cheyenne;67847;Conan;Delacruz;5;jueves;octubre;2019;93474;15;K1I 8O5;Hydrocodone/APAP;3;381;27;s/0.47
+28335;Felicia;Guerra;28;340 Vitae St.;Philippines;Merksplas;37838;Kuame;Bray;5;viernes;octubre;2019;55438;16;Y3O 0A5;Omeprazole (Rx);9;126;29;s/0.84
+35062;Jelani;Hester;42;Ap #624-319 Nec, Road;Guernsey;Pickering;74487;Vielka;Nunez;5;sabado ;octubre;2019;81634;17;C5L 9F1;Lipitor;4;675;2;s/0.68
+32485;Holly;Lamb;32;Ap #521-3521 Dictum. Avenue;Mayotte;Chetwynd;50947;Violet;Jacobson;5;sabado ;octubre;2019;69721;18;H5Z 0C3;Sulfamethoxazole/Trimethoprim;5;642;30;s/0.52
+3750;Kane;Garcia;43;P.O. Box 540, 8144 Faucibus. Ave;Turkmenistan;Rhayader;81210;Jared;Compton;5;domingo;octubre;2019;54693;19;U6K 7M1;Lisinopril;8;520;17;s/0.17
+66848;Bethany;Dodson;79;P.O. Box 627, 4250 Sem Street;Malta;Invergordon;17840;Sydnee;Britt;5;lunes;septiembre;2019;98359;20;C3Z 2A7;Simvastatin;7;731;27;s/0.40
+1340;Yeo;Summers;21;P.O. Box 598, 924 Molestie Av.;Tokelau;Chilliwack;68472;Yetta;Trujillo;5;martes;septiembre;2019;49253;21;W4X 0H1;Alprazolam;9;980;23;s/0.87
+61053;Reuben;Perkins;42;P.O. Box 412, 385 Sit Rd.;Moldova;Zamo??;59999;Brett;Hewitt;5;miercoles;septiembre;2019;71975;22;F0X 9B4;Methylprednisolone;10;304;26;s/0.34
+16112;Kenyon;Frye;79;P.O. Box 901, 2859 Phasellus St.;Canada;Gebze;27850;Bertha;Brewer;5;martes;agosto;2019;44769;23;V3T 2S1;Amoxicillin Trihydrate/Potassium Clavulanate;3;494;19;s/0.64
+10149;Steel;Jefferson;76;P.O. Box 518, 9662 Imperdiet Avenue;Martinique;Wolvertem;25831;Trevor;Stein;5;lunes;agosto;2019;27484;24;X8Z 2H0;Oxycodone/APAP;2;690;8;s/0.52
+2804;Venus;Walton;27;Ap #912-2559 Vulputate Road;United Kingdom (Great Britain);Harrogate;68357;Hayden;Gallagher;5;sabado ;octubre;2019;28164;25;I0P 1G8;Naproxen;10;502;15;s/0.64
+76454;Tanek;Chandler;57;969-9902 Purus, St.;Central African Republic;Multan;8364;Calista;Hogan;5;domingo;agosto;2019;77737;26;T2Q 2Z2;Hydrochlorothiazide;1;735;29;s/0.94
+76018;Clio;Donaldson;77;Ap #548-4779 Cum St.;Palestine, State of;Ribeir„o Preto;97430;Willa;Small;5;lunes;septiembre;2019;41010;27;D0Z 1P8;Clindamycin HCl;8;806;17;s/0.31
+32941;Jeanette;Robertson;31;116-2466 Eu St.;Netherlands;Moerkerke;37496;Haley;Maxwell;5;martes;septiembre;2019;48419;28;Y0W 8L4;Ibuprofen (Rx);7;519;24;s/0.70
+75418;Roanna;Gutierrez;58;P.O. Box 991, 7871 Nunc Avenue;Sint Maarten;Mandi Burewala;98875;Mariam;Roberts;5;jueves;agosto;2019;24144;29;H6T 7E2;Furosemide;2;393;12;s/0.48
+46478;Hanae;Delacruz;23;Ap #392-729 Nascetur Avenue;Mauritius;Vallentuna;90505;Garrison;Vega;5;jueves;agosto;2019;73904;30;E9K 6V2;Vitamin D (Rx);5;339;9;s/0.77
+13971;Cullen;Merrill;19;766-4041 Non, Rd.;Swaziland;Andenne;91898;Ciara;Franco;5;viernes;septiembre;2019;91489;31;G4V 2Q0;Diazepam;2;439;29;s/0.77
+53520;Alec;Fuentes;57;749-9474 Faucibus Street;≈land Islands;Termes;79233;Delilah;Johns;5;lunes;octubre;2019;99232;32;N2D 1U9;Cephalexin;10;615;16;s/0.57
+195;Dara;Hardin;35;5455 Ut Avenue;Afghanistan;Tongerlo;69222;Carissa;Meyers;5;lunes;octubre;2019;31370;33;I0B 6G8;Hydrocodone;4;413;4;s/0.85
+95154;Dai;Hart;18;544-7999 Mauris, St.;Dominica;Zaragoza;41738;Honorato;Hobbs;5;sabado ;octubre;2019;67340;34;E2S 9B7;Amoxicillin;3;141;29;s/0.17
+39021;Freya;Dixon;18;P.O. Box 309, 6795 Felis St.;Jordan;Zwijnaarde;39749;Denton;Schwartz;5;martes;septiembre;2019;32456;35;Q5B 1K5;Lorazepam;5;479;18;s/0.44
+58504;Hiram;Holcomb;75;Ap #202-8765 Massa. Avenue;Kyrgyzstan;Strée;91101;Raymond;Richardson;5;martes;octubre;2019;75991;36;N9F 0R4;Lisinopril;1;841;7;s/0.64
+24746;Philip;Peters;46;Ap #950-1323 Vivamus Ave;Israel;Bastia;86499;Judah;Armstrong;5;domingo;septiembre;2019;66882;37;B5X 9S0;Amoxicillin 500g;4;984;14;s/0.63
+28152;Cody;Copeland;19;335-9064 Non Av.;Honduras;Huntsville;5098;Cameron;Nolan;5;lunes;septiembre;2019;28002;38;L7W 7K9;Albuterol;1;266;9;s/0.17
+83352;Brooke;Hunt;59;749-7676 At Road;Korea, South;Braunau am Inn;75641;Phoebe;Weeks;5;lunes;agosto;2019;25480;39;E6R 6C4;Hydrocodone Liquid;2;622;2;s/0.51
+49163;Plato;Dominguez;64;9863 Laoreet St.;Eritrea;Freire;88447;Justine;Morris;5;jueves;agosto;2019;22298;40;V8H 2J9;Omeprazole (Rx);4;162;4;s/0.56
+82108;Dahlia;Buckley;78;3706 Luctus Rd.;Cuba;Lexington;30299;Iola;Benjamin;5;domingo;septiembre;2019;21917;41;D1X 5J6;Azithromycin;8;269;5;s/0.49
+86861;Macaulay;Hatfield;62;461 Duis Rd.;Tunisia;Geest-Gérompont-Petit-Rosiére;33409;Benedict;Finch;5;lunes;septiembre;2019;51324;42;B6G 1Y8;Ibuprofen (Rx);2;593;10;s/0.80
+4317;Hedley;Little;31;P.O. Box 535, 3339 Curabitur Av.;Holy See (Vatican City State);Mundare;61121;Keane;Knowles;5;lunes;agosto;2019;9789;43;X9X 1M1;Cephalexin;8;717;28;s/0.13
+11397;Teagan;Potter;26;Ap #598-439 Mi Avenue;Palau;Gravilias;57882;Sacha;Mcgowan;5;martes;septiembre;2019;50948;44;V2R 5Z0;Gianvi;7;814;4;s/0.74
+42534;Cedric;Hebert;64;3078 Nisi Ave;Malaysia;Loughborough;45863;Ila;Schmidt;5;miercoles;agosto;2019;12976;45;A9G 1C1;Lorazepam;8;569;2;s/0.18
+15383;Madeline;Murphy;43;P.O. Box 261, 7480 Convallis Ave;Northern Mariana Islands;Sasaram;93178;Rogan;Orr;5;domingo;octubre;2019;78548;46;M0T 8B3;Amoxicillin Trihydrate;6;926;13;s/0.16
+97683;Pandora;Carrillo;33;6979 Mus. Rd.;Bonaire, Sint Eustatius and Saba;Roux-Miroir;17127;Rama;Lott;5;viernes;octubre;2019;61271;47;I7A 5P7;Celebrex;3;563;11;s/0.11
+47627;Justine;Armstrong;20;9250 Aliquet St.;Botswana;Cockburn;70815;Amir;West;5;viernes;octubre;2019;33639;48;E2N 2I1;Levoxyl;3;686;7;s/0.10
+46427;Mary;Velasquez;61;Ap #127-452 Sagittis. Rd.;Ireland;Wood Buffalo;69220;Hedda;Jones;5;sabado ;septiembre;2019;97858;49;U0D 5O6;Niaspan;9;201;9;s/0.89
+43106;Autumn;Potts;59;P.O. Box 430, 5149 Ultrices. Avenue;Viet Nam;Gloucester;56767;Aileen;Bradford;5;lunes;octubre;2019;24288;50;S4S 6H4;Tricor;8;969;11;s/0.10
+30015;Ronan;Reyes;67;150-4147 Mauris Ave;Czech Republic;Houston;70931;Alexis;Hatfield;5;lunes;septiembre;2019;7819;51;Q6F 2O7;Lisinopril;7;966;27;s/0.69
+62580;Kieran;Mcdowell;58;Ap #797-3347 Metus. St.;Luxembourg;Rengo;47226;Denton;Gillespie;5;miercoles;agosto;2019;10083;52;T6S 1M2;Doxycycline Hyclate;1;837;26;s/0.74
+90519;Cadman;Ratliff;73;Ap #327-6651 Facilisis Avenue;Laos;Diadema;57666;Aileen;Schultz;5;jueves;septiembre;2019;58155;53;C9G 5H4;Risperidone;6;626;26;s/0.27
+61835;Neville;Stafford;71;P.O. Box 858, 9816 Praesent Street;Hong Kong;New Quay;28443;Linda;Moreno;5;viernes;agosto;2019;63145;54;L9D 5M9;Sulfamethoxazole;1;308;18;s/0.90
+40122;Samson;Head;65;541-2432 Eu, Rd.;Congo (Brazzaville);San Sebastiano al Vesuvio;66718;Vielka;Booth;5;sabado ;septiembre;2019;47409;55;D8O 3C4;Lovaza;7;933;26;s/0.86
+71291;Blaine;Tate;40;Ap #270-5419 Vehicula Street;Dominica;Kapolei;34297;Mona;Acevedo;5;sabado ;octubre;2019;26123;56;T6T 2T2;Atenolol;10;370;25;s/0.57
+62147;Grady;Mcdowell;64;Ap #347-1493 Ac Rd.;Spain;Brussel X-Luchthaven Remailing;54064;Noel;Roberson;5;domingo;octubre;2019;94792;57;H6R 8A2;Lexapro;1;311;18;s/0.62
+97883;Carly;Lopez;53;753-2387 Quam Street;Colombia;Poole;42553;Walter;Vang;5;lunes;octubre;2019;70678;58;K5Y 8Q1;Pantoprazole Sodium;7;653;3;s/1.00
+96389;Amy;Pope;33;9783 Felis St.;Saint Kitts and Nevis;Lethbridge;53713;Alexandra;Simmons;5;martes;septiembre;2019;37355;59;I1I 0T0;Omeprazole (Rx);6;256;2;s/0.44
+30816;Paula;Klein;74;8077 Nullam Avenue;Anguilla;Sapele;8722;Hashim;Hale;5;miercoles;agosto;2019;62524;60;L1L 5J7;Sertraline HCl;9;470;13;s/0.96
+48230;Ivor;Stewart;69;Ap #487-7823 Vestibulum Ave;Somalia;Bicinicco;99647;Rebecca;Hernandez;5;martes;septiembre;2019;44742;61;V8P 2E3;Allopurinol;2;627;5;s/0.60
+68457;Tiger;Reilly;48;P.O. Box 621, 5180 Molestie Avenue;Hungary;PaÁo do Lumiar;55849;Nelle;Crane;5;lunes;agosto;2019;88129;62;J4Q 9R6;Amoxicillin;4;738;24;s/0.14
+74681;Curran;Kirk;62;Ap #663-4879 Dis Av.;Viet Nam;Warangal;2094;Herman;Molina;5;sabado ;octubre;2019;14591;63;R8O 1I3;Ciprofloxacin HCl;3;759;7;s/0.40
+230;Marny;Pitts;29;Ap #261-3108 Nascetur Street;Aruba;Juneau;57594;Patrick;Decker;5;domingo;octubre;2019;58899;64;G0G 9S9;Lisinopril;4;405;11;s/0.52
+42135;Cody;Madden;80;309-6089 Quis Street;Tuvalu;Angol;94865;Nero;Juarez;5;lunes;septiembre;2019;69920;65;U5C 0Y2;Hydrocodone/APAP;9;556;27;s/0.22
+11987;Elliott;Conner;27;P.O. Box 751, 2198 Justo. Ave;Puerto Rico;San Juan de Dios;81433;Hyatt;Mccarthy;5;martes;octubre;2019;98610;66;K5P 3M1;Endocet;6;392;30;s/0.75
+83427;Amanda;Morrison;35;P.O. Box 273, 1852 Lectus Av.;Greece;Imperatriz;98152;Melodie;Bradley;5;lunes;septiembre;2019;83058;67;Y2L 9V8;Cheratussin AC;4;511;1;s/0.35
+67982;Yvonne;Knowles;35;594-6606 Ornare Street;Mali;Mariakerke;5494;Mechelle;Lawrence;5;jueves;octubre;2019;27245;68;H9S 5M3;Doxycycline Hyclate;5;894;29;s/0.12
+74073;Amir;Nicholson;69;Ap #949-3708 Nunc Rd.;Tonga;March;6037;Priscilla;Salas;5;domingo;septiembre;2019;458;69;E7Y 6Z8;Potassium Chloride;9;645;28;s/0.65
+73238;Fulton;Burt;62;P.O. Box 918, 8845 Maecenas Av.;Venezuela;Blind River;6264;Quinn;Sawyer;5;lunes;agosto;2019;87258;70;R4U 5M3;Seroquel;9;401;7;s/0.97
+64504;Harding;Berry;72;557-4461 Quis Av.;Brunei;Pittsburgh;64927;Amanda;Webster;5;lunes;septiembre;2019;3608;71;H1I 4Z4;Azithromycin;3;804;4;s/0.89
+26114;Hollee;Hayes;58;Ap #480-7294 Placerat, Road;Chad;Indianapolis;50906;Colette;Rich;5;martes;agosto;2019;2348;72;O1J 6O8;Lexapro;10;181;24;s/0.25
+53238;Jerry;Watson;76;922-6772 A Rd.;Moldova;Saint-Jean-Geest;90115;Randall;Fry;5;miercoles;septiembre;2019;31808;73;F0E 5I9;Warfarin Sodium;3;602;3;s/0.52
+40071;Iola;Beasley;36;P.O. Box 428, 7874 Massa St.;Macedonia;Balsas;65152;Maile;Cooke;5;domingo;octubre;2019;49915;74;U5H 5X3;Lovastatin;5;656;22;s/0.92
+22005;Yeo;Carey;39;Ap #890-8621 Nostra, Road;Finland;Cumberland;21932;Yvonne;Case;5;viernes;octubre;2019;49215;75;T7F 0V1;Azithromycin;7;789;7;s/0.18
+10151;Shana;Hardin;77;P.O. Box 883, 9068 Duis Street;El Salvador;Judenburg;3013;Jelani;Mcfarland;5;viernes;octubre;2019;86908;76;A2E 7O7;Januvia;10;482;9;s/0.85
+90252;May;Harrell;22;Ap #385-1117 Eget St.;Micronesia;Gˆrlitz;74061;Thor;Mccarthy;5;sabado ;septiembre;2019;4135;77;Z5V 5N5;Symbicort;8;312;27;s/0.32
+92605;Quynn;Snow;52;P.O. Box 663, 6940 Id, Road;Turkmenistan;Cannole;88389;Cassidy;Dennis;5;lunes;septiembre;2019;31488;78;Z2J 1J0;Cyclobenzaprin HCl;2;349;12;s/0.34
+59096;Justin;Mcleod;78;P.O. Box 213, 6302 Et, Ave;Algeria;Cercemaggiore;60967;Stephen;Gibson;5;lunes;agosto;2019;45618;79;E7E 2C5;Albuterol;3;271;25;s/0.35
+9047;Camille;Sloan;57;P.O. Box 342, 9059 Erat Avenue;CÙte D'Ivoire (Ivory Coast);Crato;10590;Adara;Cervantes;5;miercoles;septiembre;2019;17548;80;N3C 0G4;Clindamycin HCl;2;576;9;s/1.00
+3143;MacKenzie;Alvarez;57;P.O. Box 890, 2347 Pellentesque St.;Martinique;Bowling Green;78041;Basil;Spencer;5;jueves;agosto;2019;36658;81;F2E 7S8;Doxycycline Hyclate;4;524;3;s/0.21
+77533;Chancellor;Lynn;47;Ap #827-501 Nec St.;Mauritius;Hassan;76415;Fulton;Beck;5;viernes;septiembre;2019;81026;82;L2P 4Y2;Carvedilol;4;751;25;s/0.27
+42917;Ingrid;Marks;43;P.O. Box 948, 1156 In Street;Mozambique;Waiuku;76519;Madison;Hewitt;5;sabado ;agosto;2019;44784;83;I3Y 9K7;Cymbalta;3;134;29;s/0.39
+32831;Cedric;Rhodes;72;6666 Non, Street;Cuba;Redlands;64279;Quincy;Martin;5;sabado ;octubre;2019;12061;84;M9J 2X9;Sertraline HCl;8;648;28;s/0.68
+22144;Charde;Sutton;72;967-1195 Tellus. St.;Togo;Hawera;26408;Eliana;May;5;domingo;octubre;2019;60471;85;T8S 1J5;Flovent HFA;9;710;3;s/0.27
+96655;Alice;Mcgee;26;P.O. Box 382, 9868 Mi, Rd.;Chad;Eisden;40548;Margaret;Stanley;5;lunes;octubre;2019;18734;86;P9E 1U2;Fluticasone Propionate;4;359;2;s/0.93
+11933;Lucius;Oneil;61;7623 In Road;Argentina;Anantapur;67023;Rowan;Schwartz;5;martes;octubre;2019;80646;87;I6X 9Z8;Warfarin Sodium;8;456;26;s/0.97
+13632;Allegra;Dominguez;67;Ap #668-1105 Nulla Rd.;Marshall Islands;Srinagar;71540;Carter;Singleton;5;miercoles;septiembre;2019;37940;88;W2X 1U7;Sertraline HCl;5;695;20;s/0.36
+67255;Eugenia;Dorsey;28;Ap #658-6948 Curabitur St.;Turkey;Harrogate;30781;Ifeoma;Bates;5;martes;agosto;2019;27333;89;Q9C 9Y3;Penicillin VK;6;443;26;s/0.92
+89948;Briar;Richards;38;108-4394 Metus. Ave;France;Elversele;7106;Vincent;Dillard;5;lunes;septiembre;2019;85642;90;H7X 3J4;Synthroid;8;689;27;s/0.66
+93340;Sandra;Buckner;67;P.O. Box 130, 6152 Egestas. St.;Macao;Talence;27278;Phillip;Kaufman;5;sabado ;agosto;2019;13444;91;A5M 6Y1;Meloxicam;10;867;6;s/0.16
+19786;Kaye;Callahan;71;2420 Sociis Rd.;Tanzania;Picture Butte;71402;Mannix;Ray;5;domingo;septiembre;2019;25670;92;I9M 4P3;Doxycycline Hyclate;10;432;14;s/0.69
+53618;Aubrey;Hess;50;P.O. Box 463, 7834 Ligula. St.;Burkina Faso;Attert;25946;Britanni;Bruce;5;lunes;septiembre;2019;76965;93;M5V 0V0;Famotidine;9;762;28;s/0.56
+97413;Tashya;Walters;22;121-4717 Ac, Road;Peru;Tranent;97932;Colby;Gillespie;5;martes;agosto;2019;36544;94;U3Z 3P7;Cyclobenzaprin HCl;10;435;19;s/0.79
+48946;Zahir;Mcneil;44;P.O. Box 570, 3464 Sociosqu Avenue;Libya;Vagli Sotto;70550;Bree;Hull;5;lunes;septiembre;2019;53889;95;P3A 5H4;Omeprazole (Rx);9;121;1;s/0.91
+91814;Cheyenne;James;43;Ap #784-9614 Sagittis. Street;Namibia;Sauvenière;95134;Kalia;Mueller;5;jueves;agosto;2019;38416;96;A2R 1L9;Simvastatin;2;259;19;s/0.87
+62143;Xandra;Kramer;21;4831 Quisque Rd.;Western Sahara;Veraval;16244;Seth;Guthrie;5;domingo;septiembre;2019;8112;97;B8L 2H1;Januvia;7;190;16;s/0.89
+2695;Cedric;Cooke;68;565-2490 Pharetra Ave;Armenia;Opoeteren;13629;Camden;Potter;5;lunes;agosto;2019;15992;98;L9U 0W8;Clonazepam;6;144;21;s/0.93
+78249;Cailin;Barlow;34;6075 Cursus St.;Myanmar;Forchies-la-Marche;69430;Margaret;Bowers;5;lunes;septiembre;2019;95704;99;T7Y 8W7;Furosemide;5;591;8;s/0.30
+77714;Dane;Klein;50;Ap #708-5825 Luctus Avenue;Oman;Nanded;47266;Jana;Livingston;5;martes;octubre;2019;66801;100;I6V 2K2;Albuterol;2;322;13;s/0.19
